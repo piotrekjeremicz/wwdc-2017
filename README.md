@@ -12,6 +12,12 @@ Three short, narrated scenes pair a story about how I started programming with a
 
 The narration is spoken with `AVSpeechSynthesizer`; flipping switches on the board advances the story and animates the current.
 
+## Demo
+
+[![WWDC17 – Circut Project — demo on YouTube](https://img.youtube.com/vi/l7SP-pJIhcY/hqdefault.jpg)](https://www.youtube.com/watch?v=l7SP-pJIhcY)
+
+▶ [Watch the demo on YouTube](https://www.youtube.com/watch?v=l7SP-pJIhcY)
+
 ## What's inside
 
 Everything is a single Swift file built from scratch on UIKit and Core Animation — no third-party code:
